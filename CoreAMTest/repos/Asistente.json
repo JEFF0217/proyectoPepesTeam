@@ -1,0 +1,92 @@
+[
+  {
+    "IdUsuario": 1,
+    "Id": 1,
+    "Nombre": "Jefferson",
+    "Apellido": "Zapata",
+    "Correo": "jefferson.1701717549@ucaldas.edu.co",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 2,
+    "Id": 2,
+    "Nombre": "David",
+    "Apellido": "Roldan",
+    "Correo": "npi1@gmail.com",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 3,
+    "Id": 3,
+    "Nombre": "Juan",
+    "Apellido": "Sanchez",
+    "Correo": "juacagiri@gmail.com",
+    "Password": "25f9e794323b453885f5181f1b624d0b",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 4,
+    "Id": 4,
+    "Nombre": "Juan",
+    "Apellido": "Giraldo",
+    "Correo": "npi3@gmail.com",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 5,
+    "Id": 5,
+    "Nombre": "Hector",
+    "Apellido": "Rubio",
+    "Correo": "npi4@gmail.com",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 6,
+    "Id": 6,
+    "Nombre": "Manuela",
+    "Apellido": "Rendon",
+    "Correo": "npi5@gmail.com",
+    "Password": "M123R",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 7,
+    "Id": 7,
+    "Nombre": "Valentina",
+    "Apellido": "Valencia",
+    "Correo": "npi6@gmail.com",
+    "Password": "Ing123",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 8,
+    "Id": 8,
+    "Nombre": "Mauricio",
+    "Apellido": "Bedoya",
+    "Correo": "npi7@gmail.com",
+    "Password": "tigrehp",
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 10,
+    "Id": 10,
+    "Nombre": "Admin2",
+    "Apellido": "A2",
+    "Correo": "admin2@gmail.com",
+    "Password": null,
+    "Identificacion": null
+  },
+  {
+    "IdUsuario": 11,
+    "Id": 0,
+    "Nombre": null,
+    "Apellido": null,
+    "Correo": null,
+    "Password": null,
+    "Identificacion": null
+  }
+]

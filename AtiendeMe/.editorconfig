@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0006: No se encontró el archivo de metadatos 'C:\Users\juanc\source\repos\proyecto-del-curso-pepe-s-team\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll'
+dotnet_diagnostic.CS0006.severity = none

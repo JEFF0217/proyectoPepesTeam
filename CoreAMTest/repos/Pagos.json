@@ -1,0 +1,12 @@
+[
+  {
+    "TipoPago":"Presencial",
+    "Fecha":"2021-01-01",
+    "IdPago":"1"
+  },
+  {
+    "TipoPago":"Online",
+    "Fecha":"2021-01-02",
+    "IdPago":"2"
+  }
+]

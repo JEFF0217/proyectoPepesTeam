@@ -1,0 +1,27 @@
+[
+  {
+    "AsistenteId": 60,
+    "eventoId": 1,
+    "estado": 1
+  },
+  {
+    "AsistenteId": 61,
+    "eventoId": 2,
+    "estado": 0
+  },
+  {
+    "AsistenteId": 62,
+    "eventoId": 1,
+    "estado": 1
+  },
+  {
+    "AsistenteId": 10,
+    "eventoId": 1,
+    "estado": 0
+  },
+  {
+    "AsistenteId": 11,
+    "eventoId": 1,
+    "estado": 0
+  }
+]

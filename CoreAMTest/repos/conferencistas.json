@@ -1,0 +1,35 @@
+[
+  {
+    "NivelAcademico": "Pregrado",
+    "ConferenciaId": 2,
+    "IdUsuario": 2,
+    "Id": 2,
+    "Nombre": "David",
+    "Apellido": "Roldan",
+    "Correo": "npi1@gmail.com",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  },
+  {
+    "NivelAcademico": "PhD",
+    "ConferenciaId": 2,
+    "IdUsuario": 3,
+    "Id": 3,
+    "Nombre": "Juan",
+    "Apellido": "Sanchez",
+    "Correo": "juacagiri@gmail.com",
+    "Password": "25f9e794323b453885f5181f1b624d0b",
+    "Identificacion": null
+  },
+  {
+    "NivelAcademico": "Magister",
+    "ConferenciaId": 2,
+    "IdUsuario": 4,
+    "Id": 4,
+    "Nombre": "Juan",
+    "Apellido": "Giraldo",
+    "Correo": "npi3@gmail.com",
+    "Password": "17/02/1999",
+    "Identificacion": null
+  }
+]

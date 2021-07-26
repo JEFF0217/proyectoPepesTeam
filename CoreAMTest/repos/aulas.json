@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "CU101",
+    "Capacidad": 16,
+    "EventoId": 1
+  },
+  {
+    "Id": "CU103",
+    "Capacidad": 20,
+    "EventoId": 1
+  },
+  {
+    "Id": "CU104",
+    "Capacidad": 13,
+    "EventoId": 1
+  },
+  {
+    "Id": "CU105",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU106",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU107",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU108",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU109",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU110",
+    "Capacidad": 13,
+    "EventoId": 2
+  },
+  {
+    "Id": "CU112",
+    "Capacidad": 13,
+    "EventoId": 1
+  },
+  {
+    "Id": "CU102",
+    "Capacidad": 13,
+    "EventoId": 1
+  }
+]
